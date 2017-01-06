@@ -27,5 +27,14 @@ API Gateway
 [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development) 
 Follow these steps to give your developers an environment that will let them be their best. 
 
+
+## Continuous Integration
+
+[Continuous Integration - Martin Fowler](http://www.martinfowler.com/articles/continuousIntegration.html): 
+ontinuous Integration is a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly. This article is a quick overview of Continuous Integration summarizing the technique and its current usage.
+
+
 [Trunk based development](http://paulhammant.com/2013/04/05/what-is-trunk-based-development/):
 It is a branching model for software development. Historically, it has also been called “mainline”.
+
+
