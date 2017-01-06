@@ -13,6 +13,9 @@ Follow these steps to give your developers an environment that will let them be 
 
 ### Security
 
+[Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) @ MartinFowler site
+Modern web development has many challenges, and of those security is both very important and often under-emphasized. While such techniques as threat analysis are increasingly recognized as essential to any serious development, there are also some basic practices which every developer can and should be doing as a matter of course.
+
 ### Microservices
 
 [A New Trilogy: The Enterprise Architect's Intro to Microservices](https://www.lightbend.com/blog/a-new-trilogy-the-enterprise-architects-intro-to-microservices)
