@@ -22,8 +22,10 @@ Circuit Breaker
 Saga 
 API Gateway
 
-## agile process
+## agile practices
 
-### Management Practices
 [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development) 
 Follow these steps to give your developers an environment that will let them be their best. 
+
+[Trunk based development](http://paulhammant.com/2013/04/05/what-is-trunk-based-development/):
+It is a branching model for software development. Historically, it has also been called “mainline” (see later).
