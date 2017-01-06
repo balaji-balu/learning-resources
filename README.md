@@ -1,13 +1,6 @@
 # learning-resources
 
-learning resource - agile process
-
-## agile process
-
-### Management Practices
-[Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development) 
-Follow these steps to give your developers an environment that will let them be their best. 
-
+learning resources for agile process, application architecture
 
 ## Architecture
 
@@ -28,3 +21,9 @@ CQRS and Event Sourcing
 Circuit Breaker
 Saga 
 API Gateway
+
+## agile process
+
+### Management Practices
+[Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development) 
+Follow these steps to give your developers an environment that will let them be their best. 
