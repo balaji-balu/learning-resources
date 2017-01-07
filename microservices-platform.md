@@ -1,15 +1,15 @@
-Microservices platforms
+# Microservices platforms
 
-Spring Cloud
+* Spring Cloud
 Java, Spring Boot
 
-Lagom
+* Lagom
 Java, scala
 
-Go-kit
+* Go-kit
 Go
 
-DIY
+## DIY
 Deis
 
 App Engine
