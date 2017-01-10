@@ -12,7 +12,7 @@
 * Spring Cloud
 Java, Spring Boot
 
-[GOTO 2016 • Cloud Native Java • Josh Long](https://www.youtube.com/watch?v=sOP3x6ODQWQ)
+[GOTO 2016 • Cloud Native Java • Josh Long • Youtube](https://www.youtube.com/watch?v=sOP3x6ODQWQ)
 Published on Aug 16, 2016
 
 * Lagom
