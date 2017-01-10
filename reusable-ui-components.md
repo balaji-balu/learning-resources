@@ -8,5 +8,6 @@ A collection of composable React components for building interactive data visual
 
 [React UI components based on Bootstrap 4](http://lobos.github.io/react-ui/0.7/#/home?_k=v74dpt)
 
+[Lightning design system - salesforce](https://www.lightningdesignsystem.com/)
 
-
+[Predix UI - GE](https://www.predix-ui.com)
