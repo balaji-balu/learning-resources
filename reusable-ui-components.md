@@ -2,7 +2,7 @@
 
 ### React component development
 
-* sourcejs(https://sourcejs.com/): Living Style Guide Platform
+* [sourcejs](https://sourcejs.com/): Living Style Guide Platform
 The most advanced tool for documenting, testing and managing UI components achieving productive team work
 
 * react style generator : [bluekit](https://github.com/blueberryapps/react-bluekit), [react-styleguidist](https://github.com/styleguidist/react-styleguidist),
