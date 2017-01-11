@@ -20,5 +20,8 @@ A collection of composable React components for building interactive data visual
 
 https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.bjba8ajp4
 
-### VmWare Clarity Design System
+### VMWare Clarity Design System
+
+[Clarity Design System](https://vmware.github.io/clarity/): UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
+
 
