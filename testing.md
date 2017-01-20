@@ -1,4 +1,6 @@
 
+[continuous testing by Duvall](http://www.infoq.com/resource/articles/continuous-integration-howto/en/resources/Duvall_0321336380_CH06.pdf) 
+
 ## Test Driven Development
 
 
