@@ -6,6 +6,9 @@
 
 [How To Design A Good API and Why it Matters - Google Techtalks](How To Design A Good API and Why it Matters)
 
+[Accelerating APIs with continuous delivery](https://www.oreilly.com/ideas/accelerating-apis-with-continuous-delivery)
+
+Create business value and add new functionality through an automated build pipeline. By Daniel Bryant January 19, 2017
 
 ## Microservices platforms
 
