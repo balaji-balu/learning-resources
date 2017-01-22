@@ -12,6 +12,8 @@ Create business value and add new functionality through an automated build pipel
 
 ## Microservices platforms
 
+* Fabric8 from Redhat
+
 * Spring Cloud
 Java, Spring Boot
 
@@ -20,7 +22,6 @@ examples:
 [Spring Boot, Docker, Spring Cloud by ](https://github.com/sqshq/PiggyMetrics)
 
 A simple way to deal with personal finances. This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.
-
 
 [GOTO 2016 • Cloud Native Java • Josh Long • Youtube](https://www.youtube.com/watch?v=sOP3x6ODQWQ)
 Published on Aug 16, 2016
