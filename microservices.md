@@ -2,6 +2,8 @@
 
 ## Foundations
 
+[Parnas, CMU: on the criteria to be used decomposing modules](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
+
 [Microservices may be the new “premature optimization”](http://www.ptone.com/dablog/2015/07/microservices-may-be-the-new-premature-optimization/)
 
 [How To Design A Good API and Why it Matters - Google Techtalks](How To Design A Good API and Why it Matters)
