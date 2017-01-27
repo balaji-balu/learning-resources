@@ -42,3 +42,9 @@ App Engine
 Heroku
 
 Pivotal Cloud Foundry
+
+## microservices development setup on your machine locally
+
+[Development environment for microservices with docker-compose](https://www.valentinmihov.com/2015/11/15/microservices-dev-environment-with-docker/)
+
+
