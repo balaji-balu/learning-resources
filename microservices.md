@@ -31,6 +31,8 @@ Published on Aug 16, 2016
 * Lagom
 Java, scala
 
+* DropWizard
+Java, microservices, chassis
 * Go-kit
 Go
 
