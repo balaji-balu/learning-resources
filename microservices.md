@@ -31,6 +31,9 @@ Published on Aug 16, 2016
 * Lagom
 Java, scala
 
+[productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
+
+
 * DropWizard
 Java, microservices, chassis
 * Go-kit
