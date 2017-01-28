@@ -31,6 +31,8 @@ Published on Aug 16, 2016
 * Lagom
 Java, scala
 
+[Running Lagom in production](http://www.lagomframework.com/documentation/1.0.x/java/Overview.html#deploying-to-other-platforms)
+
 [productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
 
 
