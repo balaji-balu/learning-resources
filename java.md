@@ -1,8 +1,8 @@
 # reactive programming 
 
-## completionStage and completionFuture
+### completionStage and completionFuture
 
-# lambdas 
+### Lambda Expressions, Default Methods and Functional Interfaces
 
 # Generators
 
