@@ -31,17 +31,19 @@ Java, Spring Boot
 * Lagom
 Java, scala
 
-- [Running Lagom in production](http://www.lagomframework.com/documentation/1.0.x/java/Overview.html#deploying-to-other-platforms)
+ - [Running Lagom in production](http://www.lagomframework.com/documentation/1.0.x/java/Overview.html#deploying-to-other-platforms)
 
-- [productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
+ - [productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
 
 * DropWizard
-Java, microservices, chassis
+ - Java, microservices, chassis
+
 * Go-kit
-Go
+ - Go
 
 * [Eclipse Vertx](http://vertx.io/)
-- tool-kit for building reactive applications on the JVM.
+   - tool-kit for building reactive applications on the JVM.
+
 ## DIY
 Deis
 
