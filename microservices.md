@@ -19,28 +19,29 @@ Create business value and add new functionality through an automated build pipel
 * Spring Cloud
 Java, Spring Boot
 
-examples: 
+  * examples: 
 
-[Spring Boot, Docker, Spring Cloud by ](https://github.com/sqshq/PiggyMetrics)
+    [Spring Boot, Docker, Spring Cloud by ](https://github.com/sqshq/PiggyMetrics)
 
-A simple way to deal with personal finances. This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.
+      A simple way to deal with personal finances. This is a proof-of-concept application, which demonstrates Microservice Architecture       Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.
 
-[GOTO 2016 • Cloud Native Java • Josh Long • Youtube](https://www.youtube.com/watch?v=sOP3x6ODQWQ)
-Published on Aug 16, 2016
+    [GOTO 2016 • Cloud Native Java • Josh Long • Youtube](https://www.youtube.com/watch?v=sOP3x6ODQWQ)
+      Published on Aug 16, 2016
 
 * Lagom
 Java, scala
 
-[Running Lagom in production](http://www.lagomframework.com/documentation/1.0.x/java/Overview.html#deploying-to-other-platforms)
+- [Running Lagom in production](http://www.lagomframework.com/documentation/1.0.x/java/Overview.html#deploying-to-other-platforms)
 
-[productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
-
+- [productionize lagom services instead of using conductR](https://groups.google.com/forum/#!topic/lagom-framework/xfUjFjCR9ds)
 
 * DropWizard
 Java, microservices, chassis
 * Go-kit
 Go
 
+* [Eclipse Vertx](http://vertx.io/)
+- tool-kit for building reactive applications on the JVM.
 ## DIY
 Deis
 
